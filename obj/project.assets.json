@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/mobolaji/Documents/DataSecurity/DataSecurity.csproj",
+      "projectUniqueName": "/home/mobolaji/Documents/DataSec/task-1/DataSecurity.csproj",
       "projectName": "DataSecurity",
-      "projectPath": "/home/mobolaji/Documents/DataSecurity/DataSecurity.csproj",
+      "projectPath": "/home/mobolaji/Documents/DataSec/task-1/DataSecurity.csproj",
       "packagesPath": "/home/mobolaji/.nuget/packages/",
-      "outputPath": "/home/mobolaji/Documents/DataSecurity/obj/",
+      "outputPath": "/home/mobolaji/Documents/DataSec/task-1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/mobolaji/.nuget/NuGet/NuGet.Config"

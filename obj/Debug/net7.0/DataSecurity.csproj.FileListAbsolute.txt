@@ -12,3 +12,17 @@
 /home/mobolaji/Documents/DataSecurity/obj/Debug/net7.0/DataSecurity.pdb
 /home/mobolaji/Documents/DataSecurity/obj/Debug/net7.0/DataSecurity.genruntimeconfig.cache
 /home/mobolaji/Documents/DataSecurity/obj/Debug/net7.0/ref/DataSecurity.dll
+/home/mobolaji/Documents/DataSec/task-1/obj/Debug/net7.0/DataSecurity.GeneratedMSBuildEditorConfig.editorconfig
+/home/mobolaji/Documents/DataSec/task-1/obj/Debug/net7.0/DataSecurity.AssemblyInfoInputs.cache
+/home/mobolaji/Documents/DataSec/task-1/obj/Debug/net7.0/DataSecurity.AssemblyInfo.cs
+/home/mobolaji/Documents/DataSec/task-1/obj/Debug/net7.0/DataSecurity.csproj.CoreCompileInputs.cache
+/home/mobolaji/Documents/DataSec/task-1/obj/Debug/net7.0/DataSecurity.dll
+/home/mobolaji/Documents/DataSec/task-1/obj/Debug/net7.0/refint/DataSecurity.dll
+/home/mobolaji/Documents/DataSec/task-1/obj/Debug/net7.0/DataSecurity.pdb
+/home/mobolaji/Documents/DataSec/task-1/bin/Debug/net7.0/DataSecurity
+/home/mobolaji/Documents/DataSec/task-1/bin/Debug/net7.0/DataSecurity.deps.json
+/home/mobolaji/Documents/DataSec/task-1/bin/Debug/net7.0/DataSecurity.runtimeconfig.json
+/home/mobolaji/Documents/DataSec/task-1/bin/Debug/net7.0/DataSecurity.dll
+/home/mobolaji/Documents/DataSec/task-1/bin/Debug/net7.0/DataSecurity.pdb
+/home/mobolaji/Documents/DataSec/task-1/obj/Debug/net7.0/DataSecurity.genruntimeconfig.cache
+/home/mobolaji/Documents/DataSec/task-1/obj/Debug/net7.0/ref/DataSecurity.dll
